@@ -32,12 +32,24 @@ ul {
     color: #2E2F42;
 }
 
+.top-bar-nav:hover,
+.top-bar-nav:focus,
+.top-bar-nav:active{
+    color: #404BBF;
+}
+
 .top-bar-contact {
     font-family: Roboto;
     font-weight: 400;
     font-size: 16px;
     line-height: 24px;
     color: #434455;
+}
+
+.top-bar-contact:hover,
+.top-bar-contact:focus,
+.top-bar-contact:active{
+    color: #404BBF;
 }
 
 .hero-section {
@@ -57,6 +69,12 @@ ul {
     font-size: 16px;
     line-height: 24px;
     color: #FFFFFF;
+}
+
+.hero-button:hover,
+.hero-button:focus,
+.hero-button:active {
+    background-color: #404BBF;
 }
 
 .feature-section > ul > li > h3 {
