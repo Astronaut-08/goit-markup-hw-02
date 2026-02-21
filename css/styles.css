@@ -1,0 +1,156 @@
+.top-bar {
+    background-color: #FFFFFF;
+}
+
+.logo {
+    font-family: Raleway, Roboto;
+    font-weight: 700;
+    font-size: 18px;
+    color: #4D5AE5;
+}
+
+.logo-s {
+    font-family: Raleway, Roboto;
+    font-weight: 700;
+    font-size: 18px;
+    color: #2E2F42;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+.top-bar-nav {
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #2E2F42;
+}
+
+.top-bar-contact {
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #434455;
+}
+
+.hero-section {
+    background-color: #2E2F42;
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 60px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.hero-button {
+    background-color: #4D5AE5;
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+.feature-section > ul > li > h3 {
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: #2E2F42;
+}
+
+.feature-section > ul > li > p {
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #434455;
+}
+
+.team-section {
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    text-align: center;
+    color: #2E2F42;
+    background-color: #F4F4FD;
+}
+
+.team-section > ul > li {
+    background-color: #FFFFFF;
+}
+
+.team-section > ul > li > h3 {
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    color: #2E2F42;
+}
+
+.team-section > ul > li > p {
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #434455;
+}
+
+.portfolio-section {
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    text-align: center;
+    color: #2E2F42;
+    background-color: #E7E9FC;
+}
+
+.portfolio-section > ul > li {
+    background-color: #FFFFFF;
+}
+
+.portfolio-section > ul > li > h3 {
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    color: #2E2F42;
+}
+
+.portfolio-section > ul > li > p {
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #434455;
+}
+
+.footer-section {
+    background-color: #2E2F42;
+}
+
+.footer-section > p {
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #F4F4FD;
+}
+
+.footer-section .logo-s {
+    color: #F4F4FD;
+}
